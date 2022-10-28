@@ -136,6 +136,11 @@
     </applicationVisibilities>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.CountryCode__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>BoatReview__c.Comment__c</field>
         <readable>true</readable>
     </fieldPermissions>
